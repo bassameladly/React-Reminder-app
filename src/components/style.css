@@ -1,0 +1,21 @@
+.ahmed {
+    color: blueviolet;
+    border: 20px;
+    border-style: 20px solid red;
+    background-color: lightgrey;
+   
+
+}
+.title {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    box-shadow: 10px 10px;
+    text-shadow: 2px 2px 5px red
+}
+p {
+    font-size: 20px
+}
+.btn btn-primary {
+    align-items: center
+}
